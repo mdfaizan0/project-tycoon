@@ -11,7 +11,7 @@
 2. [The "What" — What Am I Building?](#the-what--what-am-i-building)
 3. [Tech Stack — How I'm Building It](#tech-stack--how-im-building-it)
 4. [Development Philosophy — My Approach](#development-philosophy--my-approach)
-5. [The Phases — No Timelines, Just Progress](#the-phases--no-timelines-just-progress)
+5. [The Phases — No Timelines, Just Progress](#the-phases--the-decision-of-no-timelines)
 6. [The Vision — Look and Feel](#the-vision--look-and-feel)
    - [Overall Packaging](#how-will-the-overall-packaging-look-like)
    - [Gameplay Flow](#how-will-it-feel-when-starting-and-playing-a-chance)
@@ -135,7 +135,7 @@ So here are the phases that I have settled onto:
 
 **Goal** - To become confident enough to start the implementation.
 
-- Write **DevLog\_#0.md**
+- Write **DevLog#0.md**
 - Dive into the legalities of making a property-trading game, such that my assets do not collide with any existing IP.
 - Go through the tech stack, gauge their viability/limitations, and look for any possible alternatives, if needed.
 - Learning the core mechanics of the game, and how to implement them.
@@ -601,5 +601,3 @@ While the written descriptions above paint a picture, sometimes you need to **se
 ![Auction Panel - The split-screen auction interface with property details and bidding controls](./images/mockup_7_auction_panel.png)
 
 ![Board Center Detail - Close-up of the modern logo and abstract cityscape artwork in the center](./images/mockup_8_center_detail.png)
-
-**Why mockups matter:** They help me (and anyone following along) understand if the vision is actually achievable. They also serve as reference points when I start building the 3D assets in Phase 6.
