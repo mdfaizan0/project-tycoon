@@ -12,13 +12,14 @@ In order to see thyself a winner, one must accumulate the most amount of money b
 
 1. **Board**: The board is a square with 44 spaces, including 24 properties (6 per side), 5 railways, 3 utilities, 3 "Fortune" spaces, 3 "City Vault" spaces, 1 "Income Tax" space, 1 "Wealth Tax" space, and 4 special corner squares.
 2. **Players**: 2-6 players can play the game.
-3. **Money**: Each player starts with $1200 (presumed, as the economy is yet to be decided).
-4. **Tokens**: Each player chooses a token to represent them on the board.
+3. **Money**: Each player starts with **$1400** (initial capital).
+4. **Tokens**: Each player chooses a unique token.
 5. **Dice**: Two six-sided dice are used for movement.
 
 ## Major Differentiators than Monopoly for Legal Reasons
 
 - Trade Dress differences:
+- Trade Dress & Naming differences:
     - Chance → Fortune
     - Community Chest → City Vault
     - Income Tax → Income Tax
@@ -29,45 +30,45 @@ In order to see thyself a winner, one must accumulate the most amount of money b
     - Free Parking → Urban Plaza
     - Get Out of Jail Free → Free Premium Lawyer Card
 - Property categorization:
-    - Starter (Beside BEGIN) → Brown
-    - Developing (Beside PRISON) → Light Green
-    - Mid-market (Top of Prison) → Yellow
-    - High-Traffic (Below Urban Plaza) → Cyan
-    - Prime (Beside Urban Plaza) → Orange
-    - Upper Class (Beside Trip to Prison) → Dark Green
-    - High Value (Below Trip to Prison) → Violet
-    - Elite (Top of BEGIN) → Dark Blue
-- Board with 44 spaces instead of 40.
-    - Bottom: 
+    - Early Stage (Beside BEGIN) → Slate
+    - Growth (Beside PRISON) → Teal
+    - Mid-market (Top of PRISON) → Amber
+    - High-Traffic (Below URBAN PLAZA) → Crimson
+    - Prime (Beside URBAN PLAZA) → Emerald
+    - Upper Class (Beside TRIP TO PRISON) → Cobalt
+    - High Value (Below TRIP TO PRISON) → Amethyst
+    - Elite (Top of BEGIN) → Gold
+- Board with 44 spaces total.
+    - Bottom Side: 
         - 3 cheap properties
         - 3 developing properties
         - 1 fortune
         - 1 city vault
         - 1 income tax
         - 1 railway
-        - BEGIN at the corner
-    - Left: 
+        - **BEGIN** at the corner
+    - Left Side: 
         - 3 mid-market properties
         - 1 utility
         - 1 city vault
         - 3 high-traffic properties
         - 2 railways
-        - PRISON at the corner
-    - Top: 
+        - **PRISON** at the corner
+    - Top Side: 
         - 3 prime properties
         - 1 fortune
         - 1 railway
         - 2 utilities (Water and Fiber Optics)
         - 3 upper class properties
-        - Urban Plaza at the corner
-    - Right: 
+        - **URBAN PLAZA** at the corner
+    - Right Side: 
         - 3 high value properties
         - 1 city vault
         - 1 fortune
         - 3 elite properties
         - 1 railway
         - 1 wealth tax
-        - Trip to Prison at the corner
+        - **TRIP TO PRISON** at the corner
 
 ## Detailed Gameplay Mechanics
 
@@ -102,9 +103,9 @@ Once you own all properties in a color set, you can start building **Houses** to
 
 ### 6. Mortgages
 If you need cash, you can **Mortgage** your properties.
-- You get 50% of the property's value back from the bank.
+- You get **60%** of the property's value back from the bank.
 - You **cannot collect rent** on mortgaged properties.
-- To "Un-mortgage," you must pay the bank the mortgage value plus **10% interest** on mortgage value.
+- To "Un-mortgage," you must pay the bank the mortgage value plus **15% interest** on mortgage value.
 - **No Buildings Allowed**: You cannot mortgage a property if any tile in its color set has houses or a hotel. You must sell all buildings in that set back to the bank first.
 
 ### 7. Prison
@@ -138,11 +139,11 @@ To keep the game moving, each player has a **limited time** (e.g., 60 seconds) t
 ## Tile Actions Summary
 
 1. **Fortune / City Vault**: A random card is shown and instructions start executing immediately. If a card sends you past **BEGIN**, you still collect your salary.
-2. **Income Tax / Wealth Tax**: Required amount is deducted from your balance. if you don't have enough, you must sell/mortgage assets.
+2. **Income Tax / Wealth Tax**: Required amount is deducted from your balance ($300 / $150). If you don't have enough, you must sell/mortgage assets.
 3. **BEGIN**: Collect salary every time you land on or pass this space.
 4. **Urban Plaza**: A safe spot, nothing happens.
-5. **Utilities**: Rent is determined by dice roll. For example, 4x the roll for 1 utility, 10x the roll if the owner has 2 utilities and 20x the roll if the owner has all 3 utilities.
-6. **Railways**: Rent increases based on how many railways the owner has. For example, $25 for 1 railway, $50 for 2 railways, $100 for 3 railways, $200 for 4 railways and $400 if the owner has all 5 railways.
+5. **Utilities**: Rent is determined by dice roll. For example, 5x the roll for 1 utility, 12x the roll if the owner has 2 utilities and 25x the roll if the owner has all 3 utilities.
+6. **Railways**: Rent increases based on how many railways the owner has. For example, $30 for 1 railway, $60 for 2 railways, $120 for 3 railways, $240 for 4 railways and $500 if the owner has all 5 railways.
 
 ---
 
@@ -150,7 +151,6 @@ To keep the game moving, each player has a **limited time** (e.g., 60 seconds) t
 These rules are not part of the standard competitive game but can be turned on during game creation for a custom experience:
 
 1. **Urban Plaza Jackpot**: All taxes and fees paid by players go into a "Jackpot" in the center of the board. Whoever lands on **Urban Plaza** collects the entire jackpot.
-2. **Double BEGIN**: Landing exactly on the **BEGIN** space doubles the collection amount (e.g., $400 instead of $200).
+2. **Double BEGIN**: Landing exactly on the **BEGIN** space doubles the collection amount.
 3. **No Auctions**: If a player chooses not to buy a property, it simply remains unowned and nothing else happens.
 4. **Loan Sharks**: Players can take small loans from the bank, but must pay back with high interest within 5 turns or lose a property.
-
