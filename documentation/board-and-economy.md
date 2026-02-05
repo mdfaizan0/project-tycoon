@@ -174,17 +174,4 @@ This section defines the values and mechanics for non-property assets.
 | Asset Name | Price | Mtg | Multiplier Logic (Dice Roll) |
 | :--- | :---: | :---: | :--- |
 | ⚡💧 **Utilities (3)** | $150 | $90 | 1: **4x** \| 2: **10x** \| 3: **20x** |
-
-#### Tax Spaces
-| Tax Type | Amount | Logic |
-| :--- | :---: | :--- |
-| 💸 **Income Tax** | $300 | Fixed deduction upon landing. |
-| 💸 **Wealth Tax** | $150 | Fixed deduction upon landing. |
-
 ---
-
-## 4. Final Configuration Notes
-- **Corner Names**: Reverted to **BEGIN**, **PRISON**, **URBAN PLAZA**, and **TRIP TO PRISON** per user preference.
-- **Tax Names**: Reverted to **Income Tax** and **Wealth Tax**.
-- **Economy**: Maintaining the overhauled values ($1,400 start, $250 salary, 60% mortgage, 15% interest) for healthy game pacing.
-- **Vibe**: Keeping the premium color groups (Slate to Gold) for a modern, high-end feel.
